@@ -7,6 +7,7 @@ public class Variables {
 		/*
 		 * Primitive variables
 		 *Class variables
+		 *Hello
 		 * */
 		 
 		
